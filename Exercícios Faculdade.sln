@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercícios Faculdade", "Exercícios Faculdade.vcxproj", "{1881DE12-59D6-47DB-98FA-A28902D46A9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Debug|x64.ActiveCfg = Debug|x64
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Debug|x64.Build.0 = Debug|x64
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Debug|x86.Build.0 = Debug|Win32
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Release|x64.ActiveCfg = Release|x64
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Release|x64.Build.0 = Release|x64
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Release|x86.ActiveCfg = Release|Win32
+		{1881DE12-59D6-47DB-98FA-A28902D46A9A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88993B11-02B3-4AE9-BBD6-0DA84F2957DA}
+	EndGlobalSection
+EndGlobal
